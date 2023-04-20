@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');
-
-body{
-    background-color: #f5f5f5
+body {
+    background-color: #f5f5f5;
     font-family: 'Exo', sans-serif;
     font-size: 20px;
 }
-.content{
-     width: 1200px;
-     margin: 0 auto;
+
+.content {
+    width: 1200px;
+    margin: 0 auto;
 }
 
 header img,
@@ -19,24 +19,27 @@ nav ul li {
     display: inline-block;
     padding: 50px;
 }
+
 .social {
-    padding: 40px;
+    padding: 20px;
     float: right;
 }
+
 nav ul li a {
     color: #000;
     text-decoration: none;
 }
-nav ul li a:hover{
+
+nav ul li a:hover {
     text-decoration: underline;
 }
 
-.hover{
+.hover {
     transition: 0.3;
     opacity: 1;
 }
 
-.hover:hover{
+.hover:hover {
     transition: 0.3;
     opacity: 0.5;
 }
