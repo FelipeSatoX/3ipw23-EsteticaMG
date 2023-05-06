@@ -21,7 +21,7 @@ nav ul li {
 }
 
 .social {
-    padding: 20px;
+    padding: 40px;
     float: right;
 }
 
@@ -43,4 +43,24 @@ nav ul li a:hover {
     transition: 0.3;
     opacity: 0.5;
 }
-
+.banner img{
+    width: 100%;
+    margin: 20px 0;
+}
+.texto{
+    width: 47%;
+    display: inline-block;
+    float: left;
+    text-align:justify;
+    padding-right: 25px;
+    line-height: 30px;
+    font-size: 25px;
+}
+.sobre h2{
+    font-weaght: 900;
+    text-align:center;
+}
+.sobre img{
+    width: 50%;
+    display: inline-block;
+}
