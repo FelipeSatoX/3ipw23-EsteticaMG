@@ -113,6 +113,7 @@ nav ul li a:hover {
 }
 .item p{
     margin-bottom: 20px;
+    line-height: 30px;
 }
 .depoimentos {
     margin: 70px;
@@ -121,4 +122,7 @@ footer{
     background-color: #393F44;
     color: #fff;
     padding: 50px;
+}
+.item h2{
+    font-size: 40px;
 }
