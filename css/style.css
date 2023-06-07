@@ -160,11 +160,33 @@ footer ul li{
 header {
     height: 145px;
 }
+.content
+
 .sobre{
     line-height: 30px;
     font-size: 20px;
 }
-.content
-.sobre img{
-    width: 100%;
+  
+.sidebar{
+    width: 165px;
+    font-size: 40px;
+    border-left: 5px solid #0609b3;
+    line-height: 40px;
+    font-weight: bold;
+    padding: 0 38px;
+    float: left;
+    clear: both;
+}
+.info{
+    width: 950px;
+    display: inline-block;
+    text-align: justify;
+}
+.bgheader{
+    background: url(../img/carrossobre.png);
+    background-size: cover;
+    background-repeat: no;
+    height: 300px;
+    margin: 20px;
+    background background-position-y: -140px;
 }
