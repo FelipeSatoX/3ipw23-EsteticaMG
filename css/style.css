@@ -46,6 +46,7 @@ nav ul li a:hover {
 .banner img{
     width: 100%;
     margin: 20px 0;
+    height: 300px;
 }
 .texto{
     width: 47%;
@@ -188,5 +189,5 @@ header {
     background-repeat: no;
     height: 300px;
     margin: 20px;
-    background background-position-y: -140px;
+    background-position-y: -140px;
 }
