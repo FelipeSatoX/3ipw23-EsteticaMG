@@ -66,9 +66,10 @@ nav ul li a:hover {
     display: inline-block;
 }
 .servicos {
-    background: #525252;
+    
     padding: 70px 0;
     margin:50px 0 ;
+    color:#fff
 }
 .servico {
     display: inline-block;
@@ -177,6 +178,7 @@ header {
     padding: 0 38px;
     float: left;
     clear: both;
+    word-break:break-all;
 }
 .info{
     width: 950px;
@@ -190,4 +192,19 @@ header {
     height: 300px;
     margin: 20px;
     background-position-y: -140px;
+}
+
+.sidebar h1 {
+    font-size: 35px;
+}
+.info p{
+    text-align: justify;
+
+}
+
+.servicos.pagina{
+
+    margin-bottom: 20px;
+    color: #fff;
+
 }
