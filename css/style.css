@@ -234,3 +234,6 @@ ul.sociais li a{
     border:none;
     background-color:rgb(183, 179, 175);
 }
+.contato textarea {
+    height: 145px;
+}
